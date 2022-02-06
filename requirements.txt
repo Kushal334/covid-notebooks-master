@@ -1,0 +1,21 @@
+# requirements.txt
+# Python packages required by the code *inside* the notebooks in
+# this repository. Does *not* include packages necessary to
+# run JupyterLab.
+cython
+fastparquet
+#grpcio-tools
+matplotlib >= 3.2.1
+memoized-property
+numpy
+pandas < 1.2.0
+plotly
+pyarrow
+regex
+scikit-learn
+scipy
+seaborn
+xlrd
+text-extensions-for-pandas
+ray
+
